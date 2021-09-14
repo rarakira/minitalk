@@ -1,0 +1,6 @@
+signals-theory.c
+*.out
+new_test*
+*.o
+*.dSYM
+test*
